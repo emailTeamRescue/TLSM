@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TLSM"
+    }
+  },
+  "defaultProject": "TLSM",
+  "cli": {
+    "analytics": false
+  }
 }
